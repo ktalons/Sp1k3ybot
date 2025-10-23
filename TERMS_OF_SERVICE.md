@@ -80,7 +80,7 @@ These Terms are governed by the laws of the State of Arizona, United States.
 
 For questions about these Terms, please contact club administrators via:
 - Discord server administrative channels
-- Bot Gmail - Sp1k3ybot@gmail.com
+- Bot Gmail - Sp1k3yb0t@gmail.com
 - University of Arizona student organization - https://cybersaguaros.com/
 
 ## 13. Severability
